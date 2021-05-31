@@ -50,7 +50,7 @@ Microsoft SQL Server, MySQL, Python , Flask, C#, VB.NET, GitHub e Docker -->
       </td>
       <td align="center" width="96">
          <a href>
-         <img src="python-vertical.svg" height="80" alt="python-logo" />
+         <img src="img/python-vertical.svg" height="80" alt="python-logo" />
          </a>
       </td>
       <td  align="center" width="96">
