@@ -8,8 +8,85 @@
 Sou técnologo em banco de dados pela Faculdade Impacta e M.B.A. em tecnolgia de software pela Poli-USP, com mais de 8 anos de experiência com desenvolvimento de software e engenharia de dados.
 
 ### Principais linguagens e ferramentas
-Haddop, HDFS, Hive, Impala, Sqoop e PySpark
-Microsoft SQL Server, MySQL, Python , Flask, C#, VB.NET, GitHub e Docker
+<!-- Haddop, HDFS, Hive, Impala, Sqoop e PySpark
+Microsoft SQL Server, MySQL, Python , Flask, C#, VB.NET, GitHub e Docker -->
+
+<table border="0">
+   <tr>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/apache_hadoop-ar21.svg" height="80" alt="hadoop-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/apache_hive-ar21.svg" height="80" alt="hive-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/impala.svg" height="80" alt="impala-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/Apache_Sqoop_logo.svg" height="80" alt="sqoop-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/HveJ8thux1AlhfJK3AZ8RQ.svg" height="80" alt="spark-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/microsoft-sql-server.png" height="80" alt="sql-server-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/mysql-ar21.svg" height="80" alt="mysql-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/apache_spark-ar21.svg" height="80" alt="python-logo" />
+         </a>
+      </td>
+      <td  align="center" width="96">
+         <a href>
+         <img src="/img/pocoo_flask-ar21.svg" height="80" alt="flask-logo" />
+         </a>
+      </td>
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/index_c.png" height="80" alt="c-sharp-logo" />
+         </a>
+      </td>
+   </tr>
+   <tr>
+      </td>    
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/vb_new.png" height="80" alt="vb-net-logo" />
+         </a>
+      </td>
+      </td>    
+      <td align="center" width="96">
+         <a href>
+         <img src="/img/docker-ar21.svg" height="80" alt="docker-logo" />
+         </a>
+      </td>
+      </td>    
+      <td align="center" width="96">
+         <a href>
+         <img src="img/tux-seeklogo.com.svg" height="80" alt="linux-logo" />
+         </a>
+      </td>
+   </tr>
+</table>
+
+
 
 📫 : christopher.nothmann@gmail.com
 
