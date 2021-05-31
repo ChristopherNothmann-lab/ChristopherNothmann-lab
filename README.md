@@ -35,7 +35,7 @@ Microsoft SQL Server, MySQL, Python , Flask, C#, VB.NET, GitHub e Docker -->
       </td>
       <td align="center" width="96">
          <a href>
-         <img src="/img/HveJ8thux1AlhfJK3AZ8RQ.svg" height="80" alt="spark-logo" />
+         <img src="/img/apache_spark-ar21.svg" height="80" alt="spark-logo" />
          </a>
       </td>
       <td align="center" width="96">
@@ -50,7 +50,7 @@ Microsoft SQL Server, MySQL, Python , Flask, C#, VB.NET, GitHub e Docker -->
       </td>
       <td align="center" width="96">
          <a href>
-         <img src="/img/apache_spark-ar21.svg" height="80" alt="python-logo" />
+         <img src="python-vertical.svg" height="80" alt="python-logo" />
          </a>
       </td>
       <td  align="center" width="96">
