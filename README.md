@@ -4,90 +4,15 @@
 </div>
 
   # Christopher Nothmann Tumenas
-
-Sou técnologo em banco de dados pela Faculdade Impacta e M.B.A. em tecnolgia de software pela Poli-USP, com mais de 8 anos de experiência com desenvolvimento de software e engenharia de dados.
-
-### Principais linguagens e ferramentas
-<!-- Haddop, HDFS, Hive, Impala, Sqoop e PySpark
-Microsoft SQL Server, MySQL, Python , Flask, C#, VB.NET, GitHub e Docker -->
-
-<table border="0">
-   <tr>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/apache_hadoop-ar21.svg" height="80" alt="hadoop-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/apache_hive-ar21.svg" height="80" alt="hive-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/impala.svg" height="80" alt="impala-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/Apache_Sqoop_logo.svg" height="80" alt="sqoop-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/apache_spark-ar21.svg" height="80" alt="spark-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/microsoft-sql-server.png" height="80" alt="sql-server-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/mysql-ar21.svg" height="80" alt="mysql-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="img/python-vertical.svg" height="80" alt="python-logo" />
-         </a>
-      </td>
-      <td  align="center" width="96">
-         <a href>
-         <img src="/img/pocoo_flask-ar21.svg" height="80" alt="flask-logo" />
-         </a>
-      </td>
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/index_c.png" height="80" alt="c-sharp-logo" />
-         </a>
-      </td>
-   </tr>
-   <tr>
-      </td>    
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/vb_new.png" height="80" alt="vb-net-logo" />
-         </a>
-      </td>
-      </td>    
-      <td align="center" width="96">
-         <a href>
-         <img src="/img/docker-ar21.svg" height="80" alt="docker-logo" />
-         </a>
-      </td>
-      </td>    
-      <td align="center" width="96">
-         <a href>
-         <img src="img/tux-seeklogo.com.svg" height="80" alt="linux-logo" />
-         </a>
-      </td>
-   </tr>
-</table>
-
-
-
+<p>
+With over 9 years of experience as a System Engineer and Data Engineer in consultancy, I bring a blend of technical expertise and interpersonal skills to the table. I hold a degree in Database Technology from Impacta Technology College, complemented by an M.B.A. in Software Technology from Poli-USP. Throughout my professional journey, I've had the opportunity to contribute to various sectors, including accounting, agribusiness, logistics, and the beverage industry, always seeking innovative and effective solutions.
+  </div>
+</p>
+My skills range from modeling and implementing database schemas, particularly using MS SQL Server, to expertise in Microsoft Azure platforms and tools, with a focus on Azure Data Factory, Azure Databricks, Azure Delta Lake, and Azure Data Lake Storage Gen2. Additionally, I am proficient in Python and have strong skills in version control practices with Git, as well as in creating container environments with Docker.
+  </div>
+</p>
+<br/>
+<br/>
 📫 : christopher.nothmann@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-christopher-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ChristopherNothmann-lab)](https://github.com/ChristopherNothmann-lab)
@@ -107,19 +32,3 @@ Microsoft SQL Server, MySQL, Python , Flask, C#, VB.NET, GitHub e Docker -->
     </a>
   </div>
 </p>
-
-
-<!--
-**ChristopherNothmann-lab/ChristopherNothmann-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
